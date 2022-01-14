@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Welcome To SteadyGolden, the expressive vector of The SolGon Network and OS LyricHouse
-
+yes
 
 An exclusive expression-driven content provider for The SolGon Network.
 ======
