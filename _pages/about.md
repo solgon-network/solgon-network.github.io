@@ -9,4 +9,4 @@ redirect_from:
 ---
 Welcome To SteadyGolden, an exclusive expression-driven content provider for The SolGon Network. Here you will find internal cintent submitted from our clients on The SolGon Network
 ======
-If this is your first visit to SteadyGolden please read this post before going on
+If this is your first visit to SteadyGolden please read this post before continuing
