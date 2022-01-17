@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
+title: "Welcome"
 permalink: /oslyrichouse/
 author_profile: true
 ---
-Time is Time
+Here You will find all development for osLyricHouse
