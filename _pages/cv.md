@@ -35,9 +35,9 @@ Skills
   * Jupyter - ⭐
 
 
-Publications
+osLyricHouse
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.oslyrichouse %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -53,7 +53,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
+![SolGon Network](https://github.com/solgon-network/The-KESP-Project/blob/main/solgonnetworklogo.png)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solgon-network)](https://git.io/streak-stats)
