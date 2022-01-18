@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Unfinshed degree in Sports Medicine and Nutrition, University of Colorado Colorado Springs, 2015
+* Unfinished degree in Sports Medicine and Nutrition, University of Colorado Colorado Springs, 2015
 
 Skills
 ======
 * Git
-  * Github
-  * Git
+  * Github - ⭐⭐⭐⭐⭐
+  * Gitlab - ⭐⭐⭐⭐⭐
 * Bash
   * syntax - ⭐⭐⭐⭐⭐
   * scripting - ⭐⭐⭐
@@ -56,3 +56,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
