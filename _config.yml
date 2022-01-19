@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "The SolGon Network / SteadyGolden"
+title                    : "The SolGon Network / osLyricHouse"
 title_separator          : "-"
 name                     : &name "Theo Gonzales"
 description              : &description "To Whom May Readth"
@@ -83,7 +83,7 @@ author:
   email            : "theo.gonzales719@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        : "https://bitbucket.org/tlogee719"
+  bitbucket        :
   codepen          : "https://codepen.io/Tedgonzo"
   dribbble         : "https://dribbble.com/solgon-network"
   flickr           : "https://www.flickr.com/photos/194808722@N05/"
