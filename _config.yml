@@ -180,9 +180,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  oslyrichouse:
-    output: ture
-    permalink: /:collection/:path/
+
 
 
 # Defaults
