@@ -1,0 +1,19 @@
+Index: _pages/oslyrichouse.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>---\nlayout: archive\ntitle: \"Welcome to osLyricHouse\"\npermalink: /oslyrichouse/\nauthor_profile: true\n---\n{% include base_path %}\n\n\n{% for post in site.portfolio %}\n{% include archive-single.html %}\n{% endfor %}\n\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/_pages/oslyrichouse.md b/_pages/oslyrichouse.md
+--- a/_pages/oslyrichouse.md	(revision fff004287f22b9b86a9397f8c806efbc11e8e4c1)
++++ b/_pages/oslyrichouse.md	(date 1642532622373)
+@@ -7,7 +7,7 @@
+ {% include base_path %}
+ 
+ 
+-{% for post in site.portfolio %}
++{% for post in site.oslyrichouse %}
+ {% include archive-single.html %}
+ {% endfor %}
+ 
