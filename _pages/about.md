@@ -2,10 +2,10 @@
 permalink: /
 title: "Theo Gonzales from The SolGon Network"
 excerpt: "About me"
-author_profile: true
-redirect_from: 
+author_profile: true redirect_from: 
   - /about/
   - /about.html
+  - /
 ---
 Welcome to my personal page! Please browse around and checkout some of my progress and projects.
 ======

@@ -1,3 +1,10 @@
+---
+title: "JustAnotherDemonNomad"
+collection: oslyrichouse
+permalink: /oslyrichouse/Justanotherdemonnomad
+excerpt: 'You Made It!'
+date: 2021-00-00
+---
 # Demon Nomad
 ***
 #### Inspired by:
