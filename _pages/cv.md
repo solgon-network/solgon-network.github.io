@@ -11,34 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Unfinished degree in Sports Medicine and Nutrition, University of Colorado Colorado Springs, 2015
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Git
+  * Github - ⭐⭐⭐⭐⭐
+  * Gitlab - ⭐⭐⭐⭐⭐
+* Bash
+  * syntax - ⭐⭐⭐⭐⭐
+  * scripting - ⭐⭐⭐
+  * debugging - ⭐⭐⭐
+* python
+  * syntax - ⭐⭐⭐
+  * scripting - ⭐⭐
+  * debugging - ⭐⭐
+* Dart/Flutter - ⭐
+* HTML5, CSS3 - ⭐⭐⭐⭐⭐
+* PostgreSQL - ⭐⭐
+* IDE/Tools
+  * Android Studio - ⭐⭐⭐⭐⭐
+  * Visual Studio/Code - ⭐⭐⭐
+  * Jupyter - ⭐
 
-Publications
+
+osLyricHouse
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.oslyrichouse %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -54,6 +53,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+![SolGon Network](https://github.com/solgon-network/The-KESP-Project/blob/main/solgonnetworklogo.png)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solgon-network)](https://git.io/streak-stats)
