@@ -1,3 +1,7 @@
+---
+title: 'Without You'
+date: Unknown
+permalink:/post/
 # WITHOUT YOU
 ## Trippie Red & Travis Barker
 Uh, uh
