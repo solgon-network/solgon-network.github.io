@@ -13,9 +13,9 @@ name                     : &name "Theo Gonzales"
 description              : &description "To Whom May Readth"
 url                      : https://solgon-network.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "solgon-network/solgon-network.github.io"
 teaser                   :
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
