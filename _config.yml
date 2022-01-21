@@ -18,8 +18,8 @@ teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+read_more                : "disabled" 
+talkmap_link             : false 
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -247,6 +247,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _osLyricHouse
   - scope:
       path: ""
       type: oslyrichouse
