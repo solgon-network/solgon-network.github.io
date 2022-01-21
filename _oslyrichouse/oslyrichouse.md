@@ -1,9 +1,9 @@
 ---
-title: "Lyric Drop 1"
+title: "Start Here"
 collection: oslyrichouse
 permalink: /oslyrichouse/oslyrichouse
 excerpt: 'You Made It!'
-date: 2021-12-14
+date: 2095-12-14
 ---
 osLyricHouse is a lyric sharing platform, and one of the first of its kind.<br>
 The best way to explain this is to take you through the basic navigation of a new user.<br>

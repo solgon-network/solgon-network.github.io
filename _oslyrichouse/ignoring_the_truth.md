@@ -1,3 +1,10 @@
+---
+title: "Ignoring The Truth"
+collection: oslyrichouse
+permalink: /oslyrichouse/ignoring_the_truth
+excerpt: 'Bear Hands'
+date: 2021-09-09
+---
 # Ignoring The Truth
 ## Bear Hands
 Textin' every kid on the block if you got a shot

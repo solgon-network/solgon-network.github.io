@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b0095ae-5fa1-4a3d-9e1c-cef3d39ae38e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_oslyrichouse/for_the_first_time.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Belinda.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/belinda.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/IgnoringtheTruth.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/ignoring_the_truth.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Justanotherdemonnomad.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/Justanotherdemonnomad.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/oslyrichouse.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/oslyrichouse.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642790287164</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="go">
+      <created>1642790298276</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1642790298276</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

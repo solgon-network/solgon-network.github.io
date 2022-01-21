@@ -2,7 +2,7 @@
 title: "JustAnotherDemonNomad"
 collection: oslyrichouse
 permalink: /oslyrichouse/Justanotherdemonnomad
-excerpt: 'You Made It!'
+excerpt: 'Theo Gonzales'
 date: 2021-09-09
 ---
 # Demon Nomad
