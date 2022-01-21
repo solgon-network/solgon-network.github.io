@@ -1,10 +1,12 @@
 ---
-title: 'Without You'
-date: 2022-01-02
-permalink:/post/withoutyou/
+title: "Without You"
+collection: oslyrichouse
+permalink: /oslyrichouse/lemon_local_natives
+excerpt: 'Trippie & Travis Barker'
+date: 2022-01-21
 ---
 # WITHOUT YOU
-## Trippie Red & Travis Barker
+## [Trippie Red](https://shoptrippieredd.com/) & [Travis Barker](https://www.travisbarker.com/)
 Uh, uh
 Uh
 

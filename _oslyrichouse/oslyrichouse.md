@@ -3,12 +3,12 @@ title: "Start Here"
 collection: oslyrichouse
 permalink: /oslyrichouse/oslyrichouse
 excerpt: 'You Made It!'
-date: 2095-12-14
+date: 2095-09-09
 ---
 osLyricHouse is a lyric sharing platform, and one of the first of its kind.<br>
 The best way to explain this is to take you through the basic navigation of a new user.<br>
 ***
-" I been listening to ******** on repeat and can't get it out of my head!"br>
+" I been listening to GroupLove on repeat and can't get it out of my head!"br>
 We've all been there. We find that song and we just can't stop listening to it. Sometimes literally don't let the song end! And as if waiting for the perfect moment or vibe to hit, we hit restart hoping to pick up more.
 Typically we like the music we relate to right? We hear that song and immediately can relate to every word. It hits you differently.
 osLyricHouse not only encourages you to personalize but collaborate with the world in a way that easy for anyone to pick up the application and start contributing.

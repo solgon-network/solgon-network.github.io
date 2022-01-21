@@ -1,5 +1,12 @@
+---
+title: "Lemon"
+collection: oslyrichouse
+permalink: /oslyrichouse/lemon_local_natives
+excerpt: 'Local Natives'
+date: 2022-01-21
+---
 # Lemon 
-## Local Natives
+## [Local Natives](https://localnatives.com/)
 ### [Verse 1] 
 Sour lemon eyes <br>
 Staring down the daylight <br>
