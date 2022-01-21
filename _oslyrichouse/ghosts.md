@@ -1,5 +1,12 @@
+---
+title: "Ghosts"
+collection: oslyrichouse
+permalink: /oslyrichouse/ghosts
+excerpt: 'Luara Marling'
+date: 2022-01-21
+---
 # Ghosts
-## Laura Marling
+## [Laura Marling](https://www.lauramarling.com/)
 
 He walked down a busy street<br>
 Staring solely at his feet<br>
@@ -66,3 +73,4 @@ Fall to your knees<br>
 It's not<br>
 Like I ever believed in<br>
 Everlasting love<br>
+

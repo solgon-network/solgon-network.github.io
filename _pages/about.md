@@ -7,3 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
+## Welcome to SteadyGolden, my online portfolio and development platform for osLyricHouse
