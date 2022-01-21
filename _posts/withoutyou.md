@@ -1,7 +1,8 @@
 ---
 title: 'Without You'
 date: 2022-01-02
-permalink:/post/withoutyou
+permalink:/post/withoutyou/
+---
 # WITHOUT YOU
 ## Trippie Red & Travis Barker
 Uh, uh
