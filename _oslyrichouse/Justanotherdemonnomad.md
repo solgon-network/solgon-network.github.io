@@ -3,7 +3,7 @@ title: "JustAnotherDemonNomad"
 collection: oslyrichouse
 permalink: /oslyrichouse/Justanotherdemonnomad
 excerpt: 'You Made It!'
-date: 2021-00-00
+date: 2021-09-09
 ---
 # Demon Nomad
 ***
