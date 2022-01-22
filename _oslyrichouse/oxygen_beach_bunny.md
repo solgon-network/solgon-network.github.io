@@ -5,7 +5,7 @@ permalink: /oslyrichouse/oxygen_beach_bunny
 excerpt: 'Beach Bunny'
 date: 2022-01-22
 ---
-![Beach Bunny](/images/beach_bunny_cover.png)
+![Beach Bunny](/images/beach_bunny_cover.jpg)
 
 Back me out of this mess, I can't help from
 Constantly hiding all the feelings I'm finding within
