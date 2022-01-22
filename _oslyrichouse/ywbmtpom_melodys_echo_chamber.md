@@ -1,3 +1,10 @@
+---
+title: "You Won't Be Missing That Part Of Me"
+collection: oslyrichouse
+permalink: /oslyrichouse/ywbmtpom_melodys_echo_chamber
+excerpt: 'Melody's Echo Chamber
+date: 2022-01-16
+---
 # You Won't Be Missing That Part Of Me
 ## Melody's Echo Chamber
 
@@ -38,3 +45,5 @@ I hope you won't
 
 Will you forgive that I left
 Should've predicted why you would hate
+
+Writer(s): Melody's Echo Chamber
