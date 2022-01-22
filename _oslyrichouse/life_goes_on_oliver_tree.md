@@ -1,3 +1,10 @@
+---
+title: "Life Goes on"
+collection: oslyrichouse
+permalink: /oslyrichouse/life_goes_on_oliver_tree
+excerpt: 'Oliver Tree'
+date: 2022-01-22
+---
 # Life Goes On
 ## Oliver Tree 🍃
 Babe, you're too controlling 

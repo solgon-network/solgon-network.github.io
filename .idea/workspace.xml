@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b0095ae-5fa1-4a3d-9e1c-cef3d39ae38e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_oslyrichouse/oxygen_beach_bunny.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beach_bunny_cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beach_bunny_logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Ghosts.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/ghosts.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/belinda.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/belinda.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/LifeGoeson.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/life_goes_on_oliver_tree.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/ghosts.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/ghosts_laura_marling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/held_down.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/held_down_laura_marling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/ignoring_the_truth.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/ignoring_the_truth_bear_hands.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +29,15 @@
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="23qqHgqIADYhypxCMXBZtvwtCt2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -195,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642792074195</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Go">
+      <created>1642802649500</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1642802649501</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,8 +227,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Go" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="go" />
-    <option name="LAST_COMMIT_MESSAGE" value="go" />
+    <MESSAGE value="Go" />
+    <option name="LAST_COMMIT_MESSAGE" value="Go" />
   </component>
 </project>

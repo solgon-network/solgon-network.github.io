@@ -1,7 +1,7 @@
 ---
 title: "Held Down You"
 collection: oslyrichouse
-permalink: /oslyrichouse/held_down
+permalink: /oslyrichouse/held_down_laura_marling
 excerpt: 'Laura Marling'
 date: 2022-01-21
 ---

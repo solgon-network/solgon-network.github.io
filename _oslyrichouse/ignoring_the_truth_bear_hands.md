@@ -1,9 +1,9 @@
 ---
 title: "Ignoring The Truth"
 collection: oslyrichouse
-permalink: /oslyrichouse/ignoring_the_truth
+permalink: /oslyrichouse/ignoring_the_truth_bear_hands
 excerpt: 'Bear Hands'
-date: 2021-09-09
+date: 2021-09-12
 ---
 # Ignoring The Truth
 ## Bear Hands

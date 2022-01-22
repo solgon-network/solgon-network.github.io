@@ -1,8 +1,8 @@
 ---
 title: "Ghosts"
 collection: oslyrichouse
-permalink: /oslyrichouse/ghosts
-excerpt: 'Luara Marling'
+permalink: /oslyrichouse/ghosts_laura_marling
+excerpt: 'Laura Marling'
 date: 2022-01-21
 ---
 # Ghosts
