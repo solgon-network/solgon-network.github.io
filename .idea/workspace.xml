@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b0095ae-5fa1-4a3d-9e1c-cef3d39ae38e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_oslyrichouse/fallout_daphnes_couch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/daphnes_couch_cover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Time.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/for_you_laura_marling.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/ghosts_laura_marling.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/ghosts_laura_marling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-08-14-blog-post-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/site_recovery.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-14-blog-post-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-08-14-blog-post-3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/withoutyou.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/withoutyou.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_oslyrichouse" />
       <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
@@ -229,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642920881390</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Go">
+      <created>1642957200910</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1642957200910</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

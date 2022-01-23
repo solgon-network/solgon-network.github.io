@@ -5,8 +5,7 @@ permalink: /oslyrichouse/for_you_laura_marling
 excerpt: 'Laura Marling'
 date: 2022-01-23
 ---
-# For you
-## [Laura Marling](https://www.lauramarling.com/)
+# [Laura Marling](https://www.lauramarling.com/)
 
 ![Laura Marling](/images/laura_and_him_cover.jpg)
 

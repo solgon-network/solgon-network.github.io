@@ -7,47 +7,47 @@ date: 2022-01-23
 ---
 ![Daphnes Couch](/images/daphnes_couch_cover.jpg)
 
-Feeling alone
-Dead and gone when you ring my phone
-I won’t respond
-Another week
-Where she knows all and I lose my keys
-In my fall
+Feeling alone<br>
+Dead and gone when you ring my phone<br>
+I won’t respond<br>
+Another week<br>
+Where she knows all and I lose my keys<br>
+In my fall<br>
 
-I notice, she sees it
-When we fall out, I feel cheated
+I notice, she sees it<br>
+When we fall out, I feel cheated<br>
 
-I just wanna go until I break
-(Fallin’, fallin’, fallin’ we go)
-But she won’t let me off of her chain
-(Fallin’, fallin’, fallin’ we go)
+I just wanna go until I break<br>
+(Fallin’, fallin’, fallin’ we go)<br>
+But she won’t let me off of her chain<br>
+(Fallin’, fallin’, fallin’ we go)<br>
 
-Behind the back
-Where she can see that nothin’ is real
-Nothin’ is free
-Another day
-Where I grow old and my sweater fades
-Against the cold
+Behind the back<br>
+Where she can see that nothin’ is real<br>
+Nothin’ is free<br>
+Another day<br>
+Where I grow old and my sweater fades<br>
+Against the cold<br>
 
-I notice, she sees it
-When we fall out, I feel chеated
+I notice, she sees it<br>
+When we fall out, I feel chеated<br>
 
-I just wanna go until I break
-(Fallin’, fallin’, fallin’ we go)
-But shе won’t let me off of her chain
-(Fallin’, fallin’, fallin’ we go)
-Smile when I try to hide it
-Fight cuz it’s complicated
-Years, my clothes are faded
-Tears, cuz I’m still your favorite
-Smile when I try to hide it
-Fight cuz it’s complicated
-Years, my clothes are faded
-Fight cuz it’s complicated
+I just wanna go until I break<br>
+(Fallin’, fallin’, fallin’ we go)<br>
+But shе won’t let me off of her chain<br>
+(Fallin’, fallin’, fallin’ we go)<br>
+Smile when I try to hide it<br>
+Fight cuz it’s complicated<br>
+Years, my clothes are faded<br>
+Tears, cuz I’m still your favorite<br>
+Smile when I try to hide it<br>
+Fight cuz it’s complicated<br>
+Years, my clothes are faded<br>
+Fight cuz it’s complicated<br>
 
-I just wanna go until I break
-(Fallin’, fallin’, fallin’ we go)
-But she won’t let me off of her chain
-(Fallin’, fallin’, fallin’ we go)
+I just wanna go until I break<br>
+(Fallin’, fallin’, fallin’ we go)<br>
+But she won’t let me off of her chain<br>
+(Fallin’, fallin’, fallin’ we go)<br>
 
 Writer(s): [Daphnes Couch](https://www.instagram.com/daphnescouch4real/?hl=en)

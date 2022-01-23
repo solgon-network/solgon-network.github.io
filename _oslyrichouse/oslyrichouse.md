@@ -3,7 +3,7 @@ title: "Start Here"
 collection: oslyrichouse
 permalink: /oslyrichouse/oslyrichouse
 excerpt: 'You Made It!'
-date: 2095-09-09
+date: 1995-09-09
 ---
 osLyricHouse is a lyric sharing platform, and one of the first of its kind.<br>
 The best way to explain this is to take you through the basic navigation of a new user.<br>

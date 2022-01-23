@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
+title: 'RESERVED'
+date: 2022-02-02
+permalink: /posts/site_recovery
 tags:
   - cool posts
   - category1
