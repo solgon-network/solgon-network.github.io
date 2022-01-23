@@ -1,5 +1,14 @@
+---
+title: "For You"
+collection: oslyrichouse
+permalink: /oslyrichouse/for_you_laura_marling
+excerpt: 'Laura Marling'
+date: 2022-01-23
+---
 # For you
-## Luara Marling
+## [Laura Marling](https://www.lauramarling.com/)
+
+![Laura Marling](/images/laura_and_him_cover.jpg)
 
 I drew pictures of you
 Long before I met you
@@ -52,3 +61,5 @@ I sing it so I won't forget
 Never let it get away
 I keep a picture of you
 Just to keep you safe
+
+Writer(s): L

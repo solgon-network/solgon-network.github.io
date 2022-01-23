@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b0095ae-5fa1-4a3d-9e1c-cef3d39ae38e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_oslyrichouse/fallout_daphnes_couch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/daphnes_couch_cover.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Ywbmtpom.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/ywbmtpom_melodys_echo_chamber.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/oxygen_beach_bunny.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/oxygen_beach_bunny.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Time.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/for_you_laura_marling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/ghosts_laura_marling.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/ghosts_laura_marling.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642832874461</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Go">
+      <created>1642920881390</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1642920881390</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
