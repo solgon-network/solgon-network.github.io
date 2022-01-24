@@ -17,5 +17,5 @@ uh x8<br>
 
 Where To Start, Where To Start, Where To Start
 This Quick Fix Aint Shit So It Fell apart.
-Letting The People, No Matter Where I Go,
-Living A Shit Show Without Letting The Shit Show
+Letting The People Know, No Matter Where I Go,
+Living A Shit Show Don't Let The Shit Show
