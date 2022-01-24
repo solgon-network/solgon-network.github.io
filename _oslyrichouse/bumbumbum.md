@@ -1,16 +1,16 @@
 ---
 title: "untitled"
 collection: oslyrichouse
-permalink: /oslyrichouse/untitled002
+permalink: /oslyrichouse/bumbumbum
 excerpt: 'Theo Gonzales & Stella Rona'
 date: 2021-09-09
 ---
-# Untitled bumbumbum
+# BumBumBum
 ***
 #### Inspired By:
-### you've Never Been This Far Before by Conway Twitty
+### You've Never Been This Far Before by Conway Twitty
 ***
-#### Theo Gonzales (oslyrichouse)
+#### Theo Gonzales & Stella Rona
 
 I can almost fill the illness<br>
 Of the thoughts and words of hate I know your speaking<br>

@@ -1,7 +1,7 @@
 ---
-title: "untitled"
+title: "untitled troublesome"
 collection: oslyrichouse
-permalink: /oslyrichouse/untitled001
+permalink: /oslyrichouse/untitled_fixyou
 excerpt: 'Theo Gonzales & Stella Rona'
 date: 2021-09-09
 ---
