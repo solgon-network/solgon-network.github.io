@@ -1,7 +1,7 @@
 --
 title: "untitled Monster"
 collection: oslyrichouse
-permalink: /oslyrichouse/untitled004
+permalink: /oslyrichouse/sigjaw
 excerpt: 'Stella Rona'
 date: 2021-09-10
 ---

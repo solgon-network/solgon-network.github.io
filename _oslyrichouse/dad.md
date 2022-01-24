@@ -1,7 +1,7 @@
 --
 title: "untitled"
 collection: oslyrichouse
-permalink: /oslyrichouse/untitled003
+permalink: /oslyrichouse/dad
 excerpt: 'Theo Gonzales & Stella Rona'
 date: 2021-09-09
 ---
