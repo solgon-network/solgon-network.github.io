@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b0095ae-5fa1-4a3d-9e1c-cef3d39ae38e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_oslyrichouse/barely_living.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_oslyrichouse/untitled001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_oslyrichouse/untitled002.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_oslyrichouse/untitled003.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Megladon.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/Megladon.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/PrettyGirl.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/PrettyGirl.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Sadnecessary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/Sadnecessary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Seaworld.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/Seaworld.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Troublesome.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/troublesome.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/fallout_daphnes_couch.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/fallout_daphnes_couch.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/for_the_first_time.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/for_the_first_time.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/for_you_laura_marling.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/for_you_laura_marling.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/ghosts_laura_marling.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/ghosts_laura_marling.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/held_down_laura_marling.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/held_down_laura_marling.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/ignoring_the_truth_bear_hands.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/ignoring_the_truth_bear_hands.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/lemon_local_natives.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/lemon_local_natives.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/life_goes_on_oliver_tree.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/life_goes_on_oliver_tree.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/oxygen_beach_bunny.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/oxygen_beach_bunny.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/withoutyou.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/withoutyou.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/ywbmtpom_melodys_echo_chamber.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/ywbmtpom_melodys_echo_chamber.md" afterDir="false" />
-    </list>
+    <list default="true" id="5b0095ae-5fa1-4a3d-9e1c-cef3d39ae38e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -264,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642957804284</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Go">
+      <created>1642989264999</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1642989264999</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
