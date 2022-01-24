@@ -1,4 +1,4 @@
---
+---
 title: "untitled"
 collection: oslyrichouse
 permalink: /oslyrichouse/dad
