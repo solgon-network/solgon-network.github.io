@@ -5,9 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b0095ae-5fa1-4a3d-9e1c-cef3d39ae38e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2013-08-14-blog-post-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/site_recovery.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-08-14-blog-post-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-08-14-blog-post-3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/withoutyou.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/withoutyou.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_oslyrichouse/barely_living.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_oslyrichouse/untitled001.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_oslyrichouse/untitled002.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_oslyrichouse/untitled003.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Megladon.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/Megladon.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/PrettyGirl.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/PrettyGirl.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Sadnecessary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/Sadnecessary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Seaworld.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/Seaworld.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/Troublesome.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/troublesome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/fallout_daphnes_couch.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/fallout_daphnes_couch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/for_the_first_time.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/for_the_first_time.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/for_you_laura_marling.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/for_you_laura_marling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/ghosts_laura_marling.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/ghosts_laura_marling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/held_down_laura_marling.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/held_down_laura_marling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/ignoring_the_truth_bear_hands.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/ignoring_the_truth_bear_hands.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/lemon_local_natives.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/lemon_local_natives.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/life_goes_on_oliver_tree.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/life_goes_on_oliver_tree.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/oxygen_beach_bunny.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/oxygen_beach_bunny.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/withoutyou.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/withoutyou.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/ywbmtpom_melodys_echo_chamber.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/ywbmtpom_melodys_echo_chamber.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +40,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="23qqHgqIADYhypxCMXBZtvwtCt2" />
   <component name="ProjectLevelVcsManager">
@@ -36,10 +55,13 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/snippet (1)" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tryME" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_drafts" />
       <recent name="$PROJECT_DIR$/_oslyrichouse" />
       <recent name="$PROJECT_DIR$/_posts" />
     </key>
@@ -235,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642957200910</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Go">
+      <created>1642957804284</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1642957804284</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
