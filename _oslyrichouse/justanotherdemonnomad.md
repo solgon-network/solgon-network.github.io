@@ -20,12 +20,7 @@ And I Can Show You...<br>
 
 How To Fall Apart<br>
 How To Trust<br>
-Dont Use Faith<br>
-Unless You Must<br>
-Stop Looking For A Brighter Day;<br>
-Protect The Healing.<br>
-________<br>
-________<br> 
+
 
 They Leave And Then They Come Again<br>
 Lookin' Tryna Find A Friend<br>
