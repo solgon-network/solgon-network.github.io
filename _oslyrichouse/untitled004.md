@@ -8,18 +8,18 @@ date: 2021-09-09
 # Untitled u
 ***
 #### Inspired By:
-### Fix You by Cold Play
+### Jigsaw by Conan Gray
 *** 
 #### Stella Rona 
 
-im pacing the house im going back and forth<br>
-im losing myself in place of face<br>
-I'm so fucked up in emotion<br>
-hopin you wouldn't notice<br>
-again<br>
-im facing the trials that we had talked about<br>
-im tracing the miles the we had walked<br>
-yet i focus on the bad shit and thing that cannot happen<br>
-to me<br>
+I Pacing The House, I'm Going Back And Forth<br>
+I'm Losing Myself In Place Of Face<br>
+I'm So Fucked Up In Emotion<br>
+Hopin You Wouldn't Notice<br>
+Again<br>
+im facing the Trials That We Had Talked About<br>
+I'm Tracing The Miles That We Had Walked<br>
+Yet I Focus On The Bad Shit And Things That Cannot Happen<br>
+To ME<br>
 
 
