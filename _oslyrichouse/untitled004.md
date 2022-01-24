@@ -1,9 +1,9 @@
 --
-title: "untitled"
+title: "untitled Monster"
 collection: oslyrichouse
 permalink: /oslyrichouse/untitled004
 excerpt: 'Stella Rona'
-date: 2021-09-09
+date: 2021-09-10
 ---
 # Untitled u
 ***
@@ -12,14 +12,23 @@ date: 2021-09-09
 *** 
 #### Stella Rona 
 
-I Pacing The House, I'm Going Back And Forth<br>
+I'm Pacing The House, I'm Going Back And Forth<br>
 I'm Losing Myself In Place Of Face<br>
 I'm So Fucked Up In Emotion<br>
 Hopin You Wouldn't Notice<br>
 Again<br>
 im facing the Trials That We Had Talked About<br>
 I'm Tracing The Miles That We Had Walked<br>
-Yet I Focus On The Bad Shit And Things That Cannot Happen<br>
+Yet I Focus On The Bad Shit<br>
+And Things That Cannot Happen<br>
 To ME<br>
+
+And Here I Sit, All Alone Again<br>
+Drowning In My Sin, I Let The Demons In.<br>
+Then I Stand Up And Scream Fuck That<br>
+
+and here isit all alone again
+thining bout my sin i let the demons in
+then i stand up and scream fuck that
 
 
