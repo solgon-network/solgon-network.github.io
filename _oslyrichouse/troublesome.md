@@ -2,16 +2,14 @@
 title: "Troublesome"
 collection: oslyrichouse
 permalink: /oslyrichouse/troublesome
-excerpt: 'Theo Gonzales & Stella Rona'
-date: 2021-09-09
+excerpt: 'Stella Rona'
+date: 2022-01-24
 ---
-# Troublesome
-***
 #### Inspired By:
 Bubblegum by Clairo
 ***
 #### Stella Rona (oslyrichouse)
-
+***In Progress***
 Sorry I Always Missed You.<br>
 But its evident I Was Going To.<br>
 When The Troublesome Thoughts Start To Begin,<br>

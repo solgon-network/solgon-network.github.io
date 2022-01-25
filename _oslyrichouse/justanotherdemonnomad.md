@@ -5,12 +5,11 @@ permalink: /oslyrichouse/Justanotherdemonnomad
 excerpt: 'Theo Gonzales'
 date: 2021-09-09
 ---
-# Demon Nomad
-***
 #### Inspired by:
 ### Edens House by Milky Chance
 ***
 #### Theo Gonzales (oslyrichouse)
+***In Progress***
 Just Another Demon Nomad<br>
 Lost An Roamin' Round The Land.<br>
 I Try To Focus But I Cant.<br>

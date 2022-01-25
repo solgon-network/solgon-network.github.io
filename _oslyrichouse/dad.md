@@ -1,17 +1,15 @@
 ---
-title: "untitled"
+title: "Dad"
 collection: oslyrichouse
 permalink: /oslyrichouse/dad
-excerpt: 'Theo Gonzales & Stella Rona'
-date: 2021-09-09
+excerpt: 'Stella Rona & Theo Gonzales'
+date: 2021-01-09
 ---
-# dad
-***
 #### Inspired By:
 ### Wrath by Sir Chloe
 ***
 #### Stell Rona (oslyrichouse)
-
+***In Progress***
 I Did All I Can. Fucked Up My Plans.<br>
 I, I Have A Dad. And He Went Mad.<br>
 Its Not Alright Now I'm Sad.<br>

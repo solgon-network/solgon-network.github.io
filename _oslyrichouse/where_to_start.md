@@ -5,8 +5,6 @@ permalink: /oslyrichouse/where_to_start
 excerpt: 'Stella Rona'
 date: 2022-01-24
 ---
-# Where To Start 
-***
 #### Inspired By:
 ### Rill Rill by Sleigh Bells
 *** 

@@ -1,16 +1,15 @@
 ---
 title: "Bitch On"
 collection: oslyrichouse
-permalink: /oslyrichouse/spun
+permalink: /oslyrichouse/bitch_on
 excerpt: 'Stella Rona'
 date: 2021-09-10
 ---
-# Bitch On
-***
 #### Inspired By:
 ### Life Goes On by Oliver Tree
 *** 
 #### Theo Gonzales
+***In Progress***
 Baby You're Retard
 Please Dont Even Get Me Started
 You Cant Function, Or Something

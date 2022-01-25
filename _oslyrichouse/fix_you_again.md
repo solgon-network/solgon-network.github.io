@@ -1,17 +1,15 @@
 ---
-title: "untitled troublesome"
+title: "Fix You Again"
 collection: oslyrichouse
-permalink: /oslyrichouse/untitled_fixyou
+permalink: /oslyrichouse/fix_you_again
 excerpt: 'Theo Gonzales & Stella Rona'
-date: 2021-09-09
+date: 2022-01-09
 ---
-# Untitled Fix You
-***
 #### Inspired By:
 ### Fix You by Cold Play
 *** 
 #### Theo Gonzales (oslyrichouse)
-
+***In Progress***
 I tried my best but you couldn’t see<br>
 And you tried to but the pain was deep<br>
 But life’s goes on after 23<br>

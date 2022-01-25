@@ -5,13 +5,11 @@ permalink: /oslyrichouse/bumbumbum
 excerpt: 'Theo Gonzales & Stella Rona'
 date: 2021-09-09
 ---
-# BumBumBum
-***
 #### Inspired By:
 ### You've Never Been This Far Before by Conway Twitty
 ***
 #### Theo Gonzales & Stella Rona
-
+***In Progress***
 I can almost fill the illness<br>
 Of the thoughts and words of hate I know your speaking<br>
 Bum bum bum<br>

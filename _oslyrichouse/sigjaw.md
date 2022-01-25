@@ -1,17 +1,15 @@
 ---
-title: "untitled Monster"
+title: "SigJaw"
 collection: oslyrichouse
 permalink: /oslyrichouse/sigjaw
 excerpt: 'Stella Rona'
 date: 2021-09-10
 ---
-# SigJaw
-***
 #### Inspired By:
 ### Jigsaw by Conan Gray
 *** 
 #### Stella Rona 
-
+***In Progress***
 I'm Pacing The House, I'm Going Back And Forth<br>
 I'm Losing Myself In Place Of Face<br>
 I'm So Fucked Up In Emotion<br>
