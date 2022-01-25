@@ -11,15 +11,10 @@ date: 2021-09-10
 ### Life Goes On by Oliver Tree
 *** 
 #### Theo Gonzales
-baby you're retard
-please dont even get me started
-you cant function, or something
-i swear your smoking something
-
-
-
-
+Baby You're Retard
+Please Dont Even Get Me Started
+You Cant Function, Or Something
+I Swear Your Smoking Something
 
 You Bitch 
 On And On And On And On And On And On And On And On x4
-
