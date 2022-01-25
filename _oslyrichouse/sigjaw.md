@@ -27,8 +27,9 @@ And Here I Sit, All Alone Again<br>
 Drowning In My Sin, I Let The Demons In.<br>
 Then I Stand Up And Scream Fuck That<br>
 
-and here isit all alone again
-thining bout my sin i let the demons in
-then i stand up and scream fuck that
+And Here Is It All Alone Again<br>
+Thinking Bout My Sin In I Let The Demons In<br>
+Then I Stand Up And Scream Fuck That<br>
+
 
 
