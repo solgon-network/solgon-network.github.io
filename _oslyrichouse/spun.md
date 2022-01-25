@@ -5,6 +5,12 @@ permalink: /oslyrichouse/spun
 excerpt: 'Stella Rona'
 date: 2021-09-10
 ---
+# Bitch On
+***
+#### Inspired By:
+### Life Goes On by Oliver Tree
+*** 
+#### Theo Gonzales
 baby you're retard
 please dont even get me started
 you cant function, or something
