@@ -7,7 +7,7 @@ date: 2021-09-09
 ---
 # Barely Living
 ## Theo Gonzales & Stella Rona
-***In Progress***
+***In Progress***<br>
 Couple months down the road<br>
 Feelin for my soul.<br>
 Took but a minute<br>

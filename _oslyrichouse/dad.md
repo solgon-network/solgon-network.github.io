@@ -9,7 +9,7 @@ date: 2021-01-09
 ### Wrath by Sir Chloe
 ***
 #### Stell Rona (oslyrichouse)
-***In Progress***
+***In Progress***<br>
 I Did All I Can. Fucked Up My Plans.<br>
 I, I Have A Dad. And He Went Mad.<br>
 Its Not Alright Now I'm Sad.<br>

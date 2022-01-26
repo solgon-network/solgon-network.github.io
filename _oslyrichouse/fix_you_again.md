@@ -9,14 +9,14 @@ date: 2022-01-09
 ### Fix You by Cold Play
 *** 
 #### Theo Gonzales (oslyrichouse)
-***In Progress***
-I tried my best but you couldn’t see<br>
-And you tried to but the pain was deep<br>
-But life’s goes on after 23<br>
-Do you think of him when you look at me<br>
+***In Progress***<br>
+I Tried My Best But You Couldn't See<br>
+And You Tried To But The Pain Was Deep<br>
+But Life Goes On After 23<br>
+Do You Think Of Him When You Look At Me<br>
 
-When the tears came streaming down my face<br>
-With the years far gone and out of place<br>
+When The Tears Came Streaming Down My Face<br>
+With The Year Far Gone And Out Of Place<br>
 I bottom out and leave the state. <br>
 When you look back now can you relate<br>
 
