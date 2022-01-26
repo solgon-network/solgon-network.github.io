@@ -1,7 +1,7 @@
 ---
 title: "No More Dairy"
 collection: oslyrichouse
-permalink: /oslyrichouse/sigjaw
+permalink: /oslyrichouse/no_more_dairy
 excerpt: 'Theo Gonzales'
 date: 2021-01-25
 ---
