@@ -1,7 +1,7 @@
 ---
 title: ""
 collection: oslyrichouse
-permalink: /oslyrichouse/
+permalink: /oslyrichouse/dub
 excerpt: ''
 date: 2022-01-09
 ---
