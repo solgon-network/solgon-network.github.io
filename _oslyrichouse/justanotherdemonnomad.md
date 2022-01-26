@@ -9,7 +9,7 @@ date: 2021-09-09
 ### Edens House by Milky Chance
 ***
 #### Theo Gonzales (oslyrichouse)
-***In Progress***
+***In Progress***<br>
 Just Another Demon Nomad<br>
 Lost An Roamin' Round The Land.<br>
 I Try To Focus But I Cant.<br>

@@ -7,10 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-## Welcome to SteadyGolden, my online portfolio and development platform for osLyricHouse
-
-<a href="https://wigle.net">
-<img border="0" src="https://wigle.net/bi/kbvz0mY6m6yqebIJ9XMMIg.png">
-</a>
+#Alan Quote
+<q>Man suffers only because he takes seriously what the gods made for fun.#8230;</q> &#8211;Alan Watts
+<q>This is the real secret of life -- to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.#8230;</q> &#8211;Alan Watts

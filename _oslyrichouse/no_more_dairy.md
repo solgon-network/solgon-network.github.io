@@ -9,7 +9,7 @@ date: 2021-01-25
 ### Out of Ordinary by Oliver Tree
 *** 
 #### Theo Gonzales
-***In Progress***
+***In Progress***<br>
 I Can Not Have No More Dairy<br>
 I Can Not Have No More Dairy<br>
 I Can Not Have No More Dairy<br>
