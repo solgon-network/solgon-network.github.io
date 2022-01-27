@@ -3,13 +3,13 @@ title: "In A Grave"
 collection: oslyrichouse
 permalink: /oslyrichouse/in_a_grave.md
 excerpt: 'Stella Rona & Theo Gonzales'
-date: 2022-01-09
+date: 2022-01-25
 ---
 #### Inspired By:
 ### In My Mind by Dynoro
 *** 
 #### Stella Rona & Theo Gonzales
-***In Progress***<br>
+
 
 And In The Ground, In A Grave<br>
 That is Where You All Belong<br>

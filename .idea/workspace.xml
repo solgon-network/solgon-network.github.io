@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b0095ae-5fa1-4a3d-9e1c-cef3d39ae38e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_oslyrichouse/captain_ted.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/justanotherdemonnomad.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/justanotherdemonnomad.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_oslyrichouse/no_more_dairy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/no_more_dairy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/oslyrichouse.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/oslyrichouse.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/barely_living.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/barely_living.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/bitch_on.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/bitch_on.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/bumbumbum.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/bumbumbum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/in_a_grave.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/in_a_grave.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +40,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tryME" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_oslyrichouse" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_oslyrichouse" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_drafts" />
       <recent name="$PROJECT_DIR$/_oslyrichouse" />
@@ -303,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643215766327</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Go">
+      <created>1643220933641</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1643220933641</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

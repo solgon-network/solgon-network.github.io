@@ -3,7 +3,7 @@ title: "Barely Living"
 collection: oslyrichouse
 permalink: /oslyrichouse/barely_living
 excerpt: 'Theo Gonzales & Stella Rona'
-date: 2021-09-09
+date: 2020-09-09
 ---
 # Barely Living
 ## Theo Gonzales & Stella Rona

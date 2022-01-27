@@ -3,7 +3,7 @@ title: "Bitch On"
 collection: oslyrichouse
 permalink: /oslyrichouse/bitch_on
 excerpt: 'Stella Rona'
-date: 2021-09-10
+date: 2022-01-10
 ---
 #### Inspired By:
 ### Life Goes On by Oliver Tree
