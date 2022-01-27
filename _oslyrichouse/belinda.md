@@ -2,15 +2,13 @@
 title: "Belinda"
 collection: oslyrichouse
 permalink: /oslyrichouse/belinda
-excerpt: 'Theo Gonzales & Stella Rona'
+excerpt: 'Theo Gonzales'
 date: 2021-09-09
 ---
-# Belinda
-***
 #### Inspired By:
 ### Sofia by Clario
 ***
-#### Theo Gonzales (oslyrichouse)
+#### Theo Gonzales 
 ***In Progress***<br>
 I Think I Could Kill You If I Tired<br>
 If Only You Stay The Night<br>
