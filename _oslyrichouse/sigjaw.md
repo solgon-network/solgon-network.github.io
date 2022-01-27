@@ -9,17 +9,17 @@ date: 2021-09-10
 ### Jigsaw by Conan Gray
 *** 
 #### Stella Rona 
-***In Progress***
+***In Progress***<br>
 I'm Pacing The House, I'm Going Back And Forth<br>
 I'm Losing Myself In Place Of Face<br>
 I'm So Fucked Up In Emotion<br>
 Hopin You Wouldn't Notice<br>
 Again<br>
-im facing the Trials That We Had Talked About<br>
+I'm Facing The Trials That We Had Talked About<br>
 I'm Tracing The Miles That We Had Walked<br>
 Yet I Focus On The Bad Shit<br>
 And Things That Cannot Happen<br>
-To ME<br>
+To Me<br>
 
 And Here I Sit, All Alone Again<br>
 Drowning In My Sin, I Let The Demons In.<br>
