@@ -1,6 +1,6 @@
 title: "Wicked Bitch of the West"
 collection: oslyrichouse
-permalink: /oslyrichouse/wicked_witch_of_the_west
+permalink: /oslyrichouse/wicked_bitch_of_the_west
 excerpt: 'Theo Gonzales'
 date: 2022-01-28
 ---
