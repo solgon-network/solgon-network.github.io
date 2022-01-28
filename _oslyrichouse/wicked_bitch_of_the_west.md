@@ -1,3 +1,4 @@
+---
 title: "Wicked Bitch of the West"
 collection: oslyrichouse
 permalink: /oslyrichouse/wicked_bitch_of_the_west
