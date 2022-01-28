@@ -1,7 +1,7 @@
 ---
 title: "In A Grave"
 collection: oslyrichouse
-permalink: /oslyrichouse/in_a_grave.md
+permalink: /oslyrichouse/in_a_grave
 excerpt: 'Stella Rona & Theo Gonzales'
 date: 2022-01-25
 ---
