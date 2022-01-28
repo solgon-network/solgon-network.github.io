@@ -10,23 +10,25 @@ date: 2022-01-28
 *** 
 #### Theo Gonzales & Stella Rona
 ***In Progress***<br>
-I Just Got Out The Institute<br>
-And You Were Looking Kind Of Cute<br>
-You Were Just With My Close Friend<br>
-But Now You Guys Are Broken<br>
+He Just Got Out The Institute<br>
+And She Was Looking Kind Of Cute<br>
+She Was Just With His Close Friend<br>
+But Now They All Are Broken<br>
 
 Run Theo Run Is What They Say<br>
 But Fuck That Shit Im Here Stay<br>
 Run Theo Run Or Face The Pain<br>
 Angelica Is Here To Stay<br>
 
-Said Yall Was Wrong<br>
-But Here Is This Song<br>
+He Called My Phone<br>
+Then He Said<br>
 
 What Was Going Through My Mind<br>
 To Make This Bitch My Wife!<br>
 What Was Going Through My Mind<br>
 To Make This Bitch My Wife!<br>
+
+
 
 
 
