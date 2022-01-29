@@ -10,7 +10,7 @@ date: 2022-01-10
 *** 
 #### Theo Gonzales
 ***In Progress***<br>
-Baby You're Retard
+Baby You're Retard<br>
 Please Dont Even Get Me Started
 You Cant Function, Or Something
 I Swear Your Smoking Something
