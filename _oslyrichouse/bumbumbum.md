@@ -1,36 +1,43 @@
 ---
-title: "untitled"
+title: "Love Doesn't Live Here Anymore"
 collection: oslyrichouse
 permalink: /oslyrichouse/bumbumbum
 excerpt: 'Theo Gonzales & Stella Rona'
-date: 2019-09-09
+date: 2022-01-12
 ---
 #### Inspired By:
 ### You've Never Been This Far Before by Conway Twitty
 ***
 #### Theo Gonzales & Stella Rona
 ***In Progress***<br>
-I can almost fill the illness<br>
-Of the thoughts and words of hate I know your speaking<br>
-Bum bum bum<br>
-And I can almost hear the stillness<br>
-Of my heart after years and years of leaking<br>
-Bum bum bum<br>
-But I fought to long to get here and I always dreaded when this day would come<br>
-Hmm hmm hmm<br>
-Though your ready for my love<br>
-My love has packed it’s bags and moved along.<br>
+(Verse 1)<br>
 
-I feel my body tremble<br>
-At the thought of someone else you might be touching<br>
-Bum bum bum<br>
-And I could tell you I don’t care but we know and it shows that I am bluffing<br>
-Bum bum bum<br>
-And after all the time and shedded tears I always find myself alone<br>
-Hmm hmm hmm<br>
-And I thought that Idwait for ever but forever is just a bit to long.<br>
+I Can Almost Feel The Illness,<br>
+Of The Thoughts And Words Of Hate I know You're Speaking.<br>
+Bum Bum Bum<br>
+And I Can Almost Can Almost Hear The Stillness,<br>
+Of My Heart After Years And Years Of Leaking<br>
+Bum Bum Bum<br>
+But I Fought To Long To Long To Get Here And I<br>
+Always Dreaded When This Day Would Come.<br>
+Hmm Hmm Hmm<br>
+Though Your Ready For My Love,<br>
+My Love Has Packed It's Bags And Moved Along.<br>
 
-Now I sit here reminiscing steady thinking<br>
-Bout the times where I went wrong <br>
-Bum bum bum <br>
-You were a mean sonic itch to me<br>
+(Verse 2)<br>
+I Feel My Body Tremble<br>
+At The Thought Of Someone Else You Might Be Touching<br>
+Bum Bum Bum Bum<br>
+And I Could Tell You I Don't Care But We<br>
+Know And It Shows That I Am Bluffing<br>
+Bum Bum Bum<br>
+And After All The Time And Shedded Tears,<br>
+I Always Find Myself Alone<br>
+Hmm Hmm Hmm<br>
+And I Thought That I'd Wait Forever,<br>
+But Forever Is Just A Bit To Long.<br>
+
+Now I Sit Here Reminiscing Steady Thinking<br>
+Bout The Times Where I Went Wrong.<br>
+Bum Bum Bum <br>
+
