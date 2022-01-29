@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b0095ae-5fa1-4a3d-9e1c-cef3d39ae38e" name="Default Changelist" comment="" />
+    <list default="true" id="5b0095ae-5fa1-4a3d-9e1c-cef3d39ae38e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/belinda.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/belinda.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_oslyrichouse/bitch_on.md" beforeDir="false" afterPath="$PROJECT_DIR$/_oslyrichouse/bitch_on.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -329,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643260918322</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Go">
+      <created>1643262462951</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1643262462951</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -2,7 +2,7 @@
 title: "Bitch On"
 collection: oslyrichouse
 permalink: /oslyrichouse/bitch_on
-excerpt: 'Theo Gonzales'
+excerpt: 'Stella Rona'
 date: 2022-01-10
 ---
 #### Inspired By:
@@ -12,8 +12,8 @@ date: 2022-01-10
 ***In Progress***<br>
 Baby You're Retard<br>
 Please Dont Even Get Me Started<br>
-You Cant Function, Or Something<br>
-I Swear Your Smoking Something<br>
+You Cant Function, Or Something
+I Swear Your Smoking Something
 
-You Bitch <br>
-On And On And On And On And On And On And On And On x4<br>
+You Bitch 
+On And On And On And On And On And On And On And On x4
