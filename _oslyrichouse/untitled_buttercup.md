@@ -10,6 +10,8 @@ date: 2022-01-26
 *** 
 #### Theo Gonzales
 
+(Verse 1)<br>
+
 Oh God, I'm Losing This Time.<br>
 I'm Fucked Up In Emotion.<br>
 I'm Fine, Just Give It Some Time<br>
@@ -20,8 +22,12 @@ I'm Living In My Golden Day<br>
 Fucked! For Waiting On Time<br>
 Don't You Whistle At Me<br>
 
+(Chorus)<br>
+
 Can't You Find My Mi,i,i,i,o,o,o,o,o<br>
 Don't You Waste My Ti,i,i,i,o,o,o,o,o<br>
+
+(Verse 2)<br>
 
 I Find Me Slipping This Time<br>
 Looking For The Fun<br>
