@@ -10,7 +10,9 @@ date: 2022-01-26
 ***
 #### Stella Rona
 ***In Progress***<br>
-(Intro)<br>
+
+(Verse 1)<br>
+
 Wondering, Wondering To The Edge<br>
 He Might Be Dead<br>
 Sailing, Sailing Through The Wind<br>
