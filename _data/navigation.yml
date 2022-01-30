@@ -2,13 +2,9 @@
 main:
   - title: "osLyricHouse"
     url: /oslyrichouse/
-  
   - title: "Talks"
     url: /talks/    
     # took out teachings
-  - title: "Portfolio"
-    url: /portfolio/
-        
   - title: # blog here when ready
     url: /year-archive/
     
