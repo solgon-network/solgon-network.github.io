@@ -16,10 +16,8 @@ Kan't I Just Know<br>
 How You Been Where'd You Go<br>
 Have You Seen Does It Show<br>
 I Love You But You Know<br>
-Kant I Know<br>
-Kant You See<br>
-How Your Life<br>
-Effects Me<br>
-
+Kant I Know Kant You See<br>
+How Your Life Effects Me<br>
+Do You Care
 
 
