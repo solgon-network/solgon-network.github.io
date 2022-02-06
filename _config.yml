@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Theo Gonzales / The SolGon Network"
 title_separator          : "-"
 name                     : &name "Theo Gonzales"
-description              : &description "To Whom May Readth"
+description              : &description "CSR at Bug Brand Tire & Service"
 url                      : https://solgon-network.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "solgon-network/solgon-network.github.io"
